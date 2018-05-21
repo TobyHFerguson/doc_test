@@ -1,2 +1,7 @@
+#+OPTIONS: toc:3
 * Doc_Test
 a document test
+* Heading 2
+** Heading 2.1
+*** Heading 2.2
+**** Heading 2.3
